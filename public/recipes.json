@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Dal tadka",
+    "image": "https://cdn.tasteatlas.com//images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg?w=905&h=510",
+    "price": "199",
+    "ingredients": ["carrot", "broccoli", "soy sauce", "garlic"],
+    "prepTime": 40,
+    "rating": "⭐⭐⭐",
+    "type": "vegetarian"
+  },
+  {
+    "id": 2,
+    "name": "Death by Chocolate",
+    "image": "https://i.ytimg.com/vi/uYFi4Vk-6hM/maxresdefault.jpg",
+    "price": "149",
+    "ingredients": ["Whole milk", "Heavy Cream", "Vanilla", "Sugar"],
+    "prepTime": 25,
+    "rating": "⭐⭐⭐⭐",
+    "type": "Ice-cream"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Biryani",
+    "image": "https://cdn.tasteatlas.com/images/dishrestaurants/f005fb8ae1c2484891c4a58a92eb5943.jpg?w=600&h=400",
+    "price": "499",
+    "ingredients": ["chicken", "curry powder", "coconut milk", "onions"],
+    "prepTime": 50,
+    "rating": "⭐⭐⭐⭐⭐",
+    "type": "non-vegetarian"
+  },
+  {
+    "id": 4,
+    "name": "Onion Pizza",
+    "image": "https://bing.com/th?id=OSK.d3de44d3b9342c9080f684a393ac3cc2",
+    "price": "360",
+    "ingredients": ["chicken", "curry powder", "coconut milk", "onions"],
+    "prepTime": 25,
+    "rating": "⭐⭐⭐",
+    "type": "pizza"
+  },
+  {
+    "id": 5,
+    "name": "Misal",
+    "image": "https://cdn.tasteatlas.com//Images/Dishes/181106e0dc5249ac8f8089098048cc02.jpg?w=905&h=510",
+    "price": "159",
+    "ingredients": ["carrot", "broccoli", "soy sauce", "garlic"],
+    "prepTime": 50,
+    "rating": "⭐⭐",
+    "type": "vegetarian"
+  },
+  {
+    "id": 6,
+    "name": "Chicken Curry",
+    "image": "https://th.bing.com/th/id/OIP.ZEXL4ROmzCyjreI0QpfpdQHaHa?rs=1&pid=ImgDetMain",
+    "price": "189",
+    "ingredients": ["chicken", "curry powder", "coconut milk", "onions"],
+    "prepTime": 25,
+    "rating": "⭐⭐⭐",
+    "type": "non-vegetarian"
+  },
+  {
+    "id": 7,
+    "name": "Dal",
+    "image": "https://cdn.tasteatlas.com//images/dishes/e251e29e128b4045bc5c2baec60f946d.jpg?w=905&h=510",
+    "price": "99",
+    "ingredients": ["carrot", "broccoli", "soy sauce", "garlic"],
+    "prepTime": 20,
+    "rating": "⭐⭐⭐⭐",
+    "type": "vegetarian"
+  },
+  {
+    "id": 8,
+    "name": "Shahi paneer",
+    "image": "https://cdn.tasteatlas.com//images/dishes/ceff65c140064d6285fc3814534a349b.jpg?w=905&h=510",
+    "price": "269",
+    "ingredients": ["carrot", "broccoli", "soy sauce", "garlic"],
+    "prepTime": 25,
+    "rating": "⭐⭐⭐",
+    "type": "vegetarian"
+  },
+  {
+    "id": 9,
+    "name": "Miso ramen",
+    "image": "https://cdn.tasteatlas.com//images/dishes/f3a19e3910eb4bea9fda8ff5d62065bf.jpg?mw=660",
+    "price": "300",
+    "ingredients": ["chicken", "curry powder", "coconut milk", "onions"],
+    "prepTime": 28,
+    "rating": "⭐⭐⭐",
+    "type": "chinese"
+  },
+  {
+    "id": 10,
+    "name": "Pad Thai",
+    "image": "https://cdn.tasteatlas.com//images/dishes/ad3ef1fb39eb42958e7462961951e45c.jpg?mw=660",
+    "price": "499",
+    "ingredients": ["chicken", "curry powder", "coconut milk", "onions"],
+    "prepTime": 35,
+    "rating": "⭐⭐⭐⭐",
+    "type": "chinese"
+  },
+  {
+    "id": 11,
+    "name": "Ramen",
+    "image": "https://cdn.tasteatlas.com//images/dishes/b6b9680a32c84a9381a1ea5f5e529698.jpg?mw=660",
+    "price": "299",
+    "ingredients": ["chicken", "curry powder", "coconut milk", "onions"],
+    "prepTime": 10,
+    "rating": "⭐⭐",
+    "type": "chinese"
+  },
+  {
+    "id": 12,
+    "name": "Prawns Kuzhambu",
+    "image": "https://wp.scoopwhoop.com/wp-content/uploads/2014/08/567731276e510a6f3a7598c3_5.jpeg",
+    "price": "599",
+    "ingredients": ["prawns", "curry powder", "coconut milk", "onions"],
+    "prepTime": 30,
+    "rating": "⭐⭐⭐⭐⭐",
+    "type": "non-vegetarian"
+  },
+  {
+    "id": 13,
+    "name": "Kheema with Coconut Curry",
+    "image": "https://wp.scoopwhoop.com/wp-content/uploads/2014/08/567731276e510a6f3a7598c3_6.jpg",
+    "price": "549",
+    "ingredients": ["chicken", "curry powder", "coconut milk", "onions"],
+    "prepTime": 45,
+    "rating": "⭐⭐⭐",
+    "type": "non-vegetarian"
+  },
+  {
+    "id": 14,
+    "name": "Chicken Salna",
+    "image": "https://wp.scoopwhoop.com/wp-content/uploads/2014/08/567731276e510a6f3a7598c3_14.jpg",
+    "price": "189",
+    "ingredients": ["chicken", "curry powder", "coconut milk", "onions","oil","salt"],
+    "prepTime": 25,
+    "rating": "⭐⭐",
+    "type": "non-vegetarian"
+  },
+  {
+    "id": 15,
+    "name": "Special Pizza",
+    "image": "https://th.bing.com/th?id=OSK.ee7056865a560f938622ffebe548ea2e&w=184&h=134&rs=2&qlt=80&r=0&o=6&cdv=1&dpr=1.5&pid=16.1",
+    "price": "499",
+    "ingredients": ["chicken", "curry powder", "oil", "onions"],
+    "prepTime": 25,
+    "rating": "⭐⭐⭐⭐⭐",
+    "type": "pizza"
+  },
+  {
+    "id": 16,
+    "name": "Palak paneer",
+    "image": "https://cdn.tasteatlas.com//Images/Dishes/4ecba690cc0b47809d43d70c7a6b3a39.jpg?w=905&h=510",
+    "price": "345",
+    "ingredients": ["Paneer", "Green chili", "oil", "garlic", "tomato","salt"],
+    "prepTime": 20,
+    "rating": "⭐⭐⭐",
+    "type": "vegetarian"
+  },
+  {
+    "id": 17,
+    "name": "Nuts Overloaded",
+    "image": "https://i.ytimg.com/vi/uQTLo0o3MIw/maxresdefault.jpg",
+    "price": "269",
+    "ingredients": ["Whole milk", "Heavy Cream", "Vanilla", "Sugar"],
+    "prepTime": 25,
+    "rating": "⭐⭐⭐⭐",
+    "type": "Ice-cream"
+  },
+  {
+    "id": 18,
+    "name": "Ohn no khao swè",
+    "image": "https://cdn.tasteatlas.com//images/dishes/cc224991d97c4d8aa004ce241d76c4ac.jpg?mw=660",
+    "price": "359",
+    "ingredients": ["chicken", "curry powder", "coconut milk", "onions"],
+    "prepTime": 35,
+    "rating": "⭐",
+    "type": "chinese"
+  },
+  {
+    "id": 19,
+    "name": "Pineapple Cake (Half Kg)",
+    "image": "https://cdn.igp.com/f_auto,q_auto,t_pnopt12prodlp/products/p-exotic-pineapple-cake-half-kg--135652-m.jpg",
+    "price": "439",
+    "ingredients": ["Butter Milk", "Butter", "Sugar", "eggs"],
+    "prepTime": 25,
+    "rating": "⭐⭐⭐",
+    "type": "cake"
+  },
+  {
+    "id": 20,
+    "name": "Delicious Truffle Cake (Half Kg)",
+    "image": "https://cdn.igp.com/f_auto,q_auto,t_pnopt12prodlp/products/p-delicious-truffle-cake-half-kg--145982-m.jpg",
+    "price": "759",
+    "ingredients": ["Butter Milk", "Butter", "Sugar", "eggs"],
+    "prepTime": 55,
+    "rating": "⭐⭐⭐⭐",
+    "type": "cake"
+  }
+]

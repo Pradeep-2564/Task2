@@ -1,0 +1,140 @@
+
+[
+  {
+    "id": 1,
+    "name": "Owon HDS242S handheld oscilloscope 40 MHz Bandwidth",
+    "price": 5550,
+    "rating": "⭐⭐",
+    "category": "Electronics",
+    "image": "https://www.bing.com/th?id=OPAC.wDLli7IWQnKUCg474C474&o=5&pid=21.1&w=124&h=124&rs=1&qlt=100&dpr=1.5&bw=6&bc=FFFFFF"
+  },
+  {
+    "id": 2,
+    "name": "ThinkCentre M90a Pro Gen 4",
+    "price": 70,
+    "rating": "⭐⭐⭐",
+    "category": "Electronics",
+    "image": "https://www.bing.com/th?id=OPAC.Bk%2fLaL7uoUzQkw474C474&o=5&pid=21.1&w=124&h=124&rs=1&qlt=100&dpr=1.5&bw=6&bc=FFFFFF"
+  },
+  {
+    "id": 3,
+    "name": "Portescap Brushless DC Motor, 4.6 W, 15 V dc, 4.4 mNm, 9300 rpm, 3mm Shaft Diameter",
+    "price": 6429,
+    "rating": "⭐⭐",
+    "category": "Electronics",
+    "image": "https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,q_auto,w_700/c_pad,w_700/R8929192-01"
+  },
+  {
+    "id": 4,
+    "name": "ifm electronic JN2200 Inclination Sensor, IP65, IP67, IP68, IP69K",
+    "price": 4674,
+    "rating": "⭐⭐",
+    "category": "Electronics",
+    "image": "https://www.bing.com/th?id=OPAC.RApyELeMcCXEvA474C474&o=5&pid=21.1&w=124&h=124&rs=1&qlt=100&dpr=1.5&bw=6&bc=FFFFFF"
+  },
+  {
+    "id": 5,
+    "name": "Cable-knit cardigan",
+    "price": 30,
+    "rating": "⭐⭐⭐",
+    "category": "Clothing",
+    "image": "https://www.bing.com/th?id=OPAC.il%2fXFfx74tbt3w474C474&o=5&pid=21.1&w=150&h=225&rs=1&qlt=100&dpr=1.5&c=8&pcl=f5f5f5"
+  },
+  {
+    "id": 6,
+    "name": "Relaxed Fit Oxford shirt",
+    "price": 1330,
+    "rating": "⭐⭐⭐",
+    "category": "Clothing",
+    "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd2%2F46%2Fd24635f01eae03d66612c126a022b1f587a47ee6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+  },
+  {
+    "id": 7,
+    "name": "Regular Fit Linen-blend utility shirt",
+    "price": 799,
+    "rating": "⭐⭐⭐",
+    "category": "Clothing",
+    "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbc%2F66%2Fbc6698be633109664e28b1b86c0cbe3c9ca72014.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+  },
+  {
+    "id": 8,
+    "name": "Relaxed Fit Oxford shirt",
+    "price": 1799,
+    "rating": "⭐⭐⭐",
+    "category": "Clothing",
+    "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5c%2Ffd%2F5cfd5d4e3fa68239dbfeb3d0c97fa7e1b06576c3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+  },
+  {
+    "id": 9,
+    "name": "Apj Abdul Kalam Learning How to Fly",
+    "price": 480,
+    "rating": "⭐⭐⭐⭐",
+    "category": "Books",
+    "image": "https://media.karousell.com/media/photos/products/2022/10/22/apj_abdul_kalam_books_collecti_1666433653_1fc80464_progressive.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Art of Being Alone",
+    "price": 193,
+    "rating": "⭐⭐⭐⭐",
+    "category": "Books",
+    "image": "https://m.media-amazon.com/images/I/61Ktyy7KymL._SY522_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "The Mountain Is You",
+    "price": 244,
+    "rating": "⭐⭐⭐⭐",
+    "category": "Books",
+    "image": "https://m.media-amazon.com/images/I/61xivWmExiL._SY466_.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dopamine Detox",
+    "price": 399,
+    "rating": "⭐⭐⭐⭐",
+    "category": "Books",
+    "image": "https://m.media-amazon.com/images/I/712K3sdLlRL._SY466_.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Cetaphil Oily Skin Cleanser + SPF 50 Light Gel combo",
+    "price": 35,
+    "rating": "⭐⭐⭐⭐",
+    "category": "Beauty",
+    "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/platform/extensions/virtual-combo/free/resize-w:1080/c0VByGbyl-download-image.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Farmacy Beauty Honey Halo Ultra-Hydrating Ceramide Moisturizer (100ml)",
+    "price": 88,
+    "rating": "⭐⭐⭐",
+    "category": "Beauty",
+    "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:1080/farmacy-beauty/1095883/0/kS91srnxno-1095883_1.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Biotique Unisex Set Of Sustainable Face Pack, Sustainable Skin Lotion & Toner",
+    "price": 429,
+    "rating": "⭐⭐⭐",
+    "category": "Beauty",
+    "image": "https://th.bing.com/th?id=OPAC.tPshbMpU9ZgdUg474C474&w=592&h=550&o=5&dpr=1.5&pid=21.1"
+  },
+  {
+    "id": 16,
+    "name": "Beauty of Joseon Centella Asiatica Calming Mask - (10 pcs)",
+    "price": 2229,
+    "rating": "⭐⭐⭐",
+    "category": "Beauty",
+    "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:1080/1143204/ob2oBPBvWc-1143204-1.jpg"
+  },  {
+    "id": 17,
+    "name": "Oziva Protein & Herbs Powder for Women - Chocolate (500 g)",
+    "price": 65,
+    "rating": "⭐⭐",
+    "category": "Biotin",
+    "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/original/1067462/lu8fESOGM-1067462_1.jpg?dpr=2"
+  }
+ 
+]
+  

@@ -1,0 +1,41 @@
+.container {
+    padding: 20px;
+}
+  
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.product-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+  
+.product-card img {
+    max-width: 100%;
+    height: auto;
+}
+  
+.filter-sort {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px #ccc;
+    padding: 20px;
+    background-color: #494646;
+}
+  
+select , input{
+    padding: 10px;
+    border-radius: 6px;
+}
+select{
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+}

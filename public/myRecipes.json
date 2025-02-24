@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Veg Biryani",
+        "image": "https://bing.com/th?id=OSK.afe0b0732f41eaf93c37a27c224c434d",
+        "price": 189,
+        "prepTime": 30,
+        "type": "vegetarian"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Curry",
+        "image": "https://th.bing.com/th/id/OIP.ZEXL4ROmzCyjreI0QpfpdQHaHa?rs=1&pid=ImgDetMain",
+        "price": 250,
+        "prepTime": 45,
+        "type": "vegetarian"
+    }
+]

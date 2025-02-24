@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(106, 145, 145);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+}
+.content {
+    box-shadow: 0 0 10px #ccc;
+    padding: 90px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+span {
+    font-size: 1.3rem;
+}
+button{
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    background-color:blueviolet;
+    color: white;
+    border-radius: 6px;
+}
+button:active{
+    background-color:rgb(159, 111, 203);
+}
